@@ -106,3 +106,4 @@ function toggleWinbox() {
     if (document.querySelector('#changeBgBox')) winbox.toggleClass('hide');
     else createWinbox();
 }
+
