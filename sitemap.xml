@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.miusss.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    
+    <lastmod>2024-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.miusss.com/essay/index.html</loc>
     
     <lastmod>2024-10-11</lastmod>
@@ -64,6 +73,20 @@
   </url>
 
   
+  <url>
+    <loc>http://blog.miusss.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2024-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://blog.miusss.com/categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
+    <lastmod>2024-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
