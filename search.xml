@@ -2,6 +2,31 @@
 <search> 
   
   
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/test-post/"/>
+      <url>/test-post/</url>
+      
+        <content type="html"><![CDATA[<p>这是一个测试文章，确保首页能够正常显示。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
